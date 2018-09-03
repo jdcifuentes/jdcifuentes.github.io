@@ -43,7 +43,7 @@ var main = (function () {
             accesible_cores: "Accessible cores",
             language: "Language",
             value_token: "<value>",
-            host: "jdcifuentesg.com",
+            host: "jdcifuentes.github.io",
             user: "guest",
             is_root: false,
             type_delay: 0
